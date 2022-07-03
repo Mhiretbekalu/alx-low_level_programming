@@ -3,11 +3,13 @@
   * Auth: Mhiret G
   */
 #include <stdio.h>
+
 /**
- * main - alphabet print
- * Return: 0
+ * main - Prints the alphabet in lowercase.
  *
+ * Return: Always 0.
  */
+
 int main(void)
 {
 	char letter;
