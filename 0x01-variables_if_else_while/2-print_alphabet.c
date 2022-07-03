@@ -1,7 +1,8 @@
-/**
-  * File: 2-print_alphabet.c
-  * Auth: Mhiret G
-  */
+/*
+ * File: 2-print_alphabet.c
+ * Auth: Mhiret B
+ */
+
 #include <stdio.h>
 
 /**
@@ -13,6 +14,7 @@
 int main(void)
 {
 	char letter;
+
 	for (letter = 'a'; letter <= 'z'; letter++)
 		putchar(letter);
 	putchar('\n');

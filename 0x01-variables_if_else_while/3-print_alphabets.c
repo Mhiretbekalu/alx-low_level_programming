@@ -1,7 +1,8 @@
-/**
-  * File 3-print_alphabets.c
-  * Auth: Mhiret b
-  */
+/*
+ * File: 3-print_alphabets.c
+ * Auth: Mhiret B
+ */
+
 #include <stdio.h>
 
 /**
@@ -9,6 +10,7 @@
  *
  * Return: Always 0.
  */
+
 int main(void)
 {
 	char letter;
